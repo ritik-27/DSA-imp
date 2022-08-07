@@ -1,0 +1,6 @@
+eraser
+5
+10
+sharpner
+6
+20
